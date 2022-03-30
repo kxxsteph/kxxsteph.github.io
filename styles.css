@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Shadows+Into+Light+Two&display=swap');
+body {
+    background: #FFE3E3;
+    margin: 0;
+    font-size: 26px;
+}
+h1 {
+    font-family: 'Nunito';
+}
+
+h2 {
+    font-family: 'Shadows Into Light Two';
+}
+
+#picsofsteph {
+    /* background: red; */
+    display: flex;
+}
+
+#picsofsteph img {
+    width: 12.5%;
+    height: auto;
+}
+
+a {
+    color: magenta;
+}
+
+main {
+    margin: 16px;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+footer {
+    font-style: italic;
+    margin: 8px;
+}
